@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LIA</string>
+    <string name="tab_keypad">Keypad</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="tab_recents">Recents</string>
+    <string name="tab_contacts">Contacts</string>
+    
+    <!-- Keypad -->
+    <string name="enter_phone_number">Enter phone number...</string>
+    <string name="call">Call</string>
+    <string name="delete">Delete</string>
+    
+    <!-- Call Screen -->
+    <string name="incoming_call">Incoming Call</string>
+    <string name="answer">Answer</string>
+    <string name="decline">Decline</string>
+    <string name="active_call">Active Call</string>
+    <string name="mute">Mute</string>
+    <string name="speaker">Speaker</string>
+    <string name="end_call">End Call</string>
+    <string name="duration">Duration</string>
+    
+    <!-- Contacts -->
+    <string name="no_contacts">No contacts</string>
+    <string name="search_contacts">Search contacts...</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="delete_contact">Delete Contact</string>
+    
+    <!-- Call Log -->
+    <string name="no_call_history">No call history</string>
+    <string name="incoming">Incoming</string>
+    <string name="outgoing">Outgoing</string>
+    <string name="missed">Missed</string>
+    <string name="blocked">Blocked</string>
+    <string name="unknown">Unknown</string>
+    
+    <!-- Favorites -->
+    <string name="no_favorites">No favorites</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="remove_from_favorites">Remove from Favorites</string>
+    
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="appearance">Appearance</string>
+    <string name="light_mode">Light</string>
+    <string name="dark_mode">Dark</string>
+    <string name="amoled_mode">AMOLED</string>
+    <string name="system_default">System Default</string>
+    <string name="calls">Calls</string>
+    <string name="notifications">Notifications</string>
+    <string name="privacy">Privacy</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="licenses">Open Source Licenses</string>
+</resources>
